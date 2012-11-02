@@ -1,0 +1,4 @@
+twixster
+========
+
+Simple twitter client
