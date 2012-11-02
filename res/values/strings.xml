@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TwixsterActivity!</string>
+    <string name="app_name">Twixster</string>
+    <string name="login">Login</string>
+    <string name="enterzipcode">Enter ZipCode</string>
+    <string name="getmovies">Get Movies from Flixster</string>
+    <string name="clear">Clear Credentials</string>
+    <string name="moviename">Movie Name</string>
+    <string name="back">Go Back</string>
+
+</resources>
